@@ -1,2 +1,2 @@
-# gtm-server-origin-whitelist-template
+# GTM-Server-Template: Origin Whitelist
 Check if origin is in whitelist.
