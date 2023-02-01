@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Origin Whitelist",
+  "categories": ["TAG_MANAGEMENT"],
   "description": "Check if origin is in whitelist.",
   "containerContexts": [
     "SERVER"
