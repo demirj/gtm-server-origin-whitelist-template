@@ -3,3 +3,5 @@ documentation: "https://github.com/demirj/gtm-server-origin-whitelist-template/b
 versions:
   - sha: 07326b337041f8420ff0949e756ea8531ada34ac
     changeNotes: Update homepage link.
+  - sha: 8f63b217b5186ce9af40e4ea2558df260c60000b
+    changeNotes: Initial release.
